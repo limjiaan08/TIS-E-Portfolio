@@ -1,6 +1,6 @@
 # Hi, I am Lim Jia An 👋
 
-![Profile Picture](picture.jpg)
+![Profile Picture](profile.jpg)
 
 ## Headline
 🎓 Computer Science Student | Computer Networks & Security
