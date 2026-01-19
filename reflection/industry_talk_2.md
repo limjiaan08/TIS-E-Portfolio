@@ -1,0 +1,2 @@
+**Industry Talk 2**\
+From the talk given by Ts. Hj. Abdul Alim Bin Abdul Muttalib, I understood that computer science is not just writing code. I have gained significant knowledge about System Development Life Cycle (SDLC) that covers planning, analysis, design, implementation and maintenance. Although the talk was highly informative, the talk can be further improved by including real-world project examples for better understanding. In overall, I feel motivated to plan my time in the university more strategically, keep improving myself and gaining practical experience.
