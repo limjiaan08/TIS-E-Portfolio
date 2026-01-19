@@ -1,2 +1,9 @@
-**Industry Visit: UTMDigital**\
-I have gained an comprehensive understanding regarding the structure, services and facilities of UTMDigital during the UTMDigital Open Day. By undergoing an interview with one of the staffs, I have understood the backbone of UTMDigital, the digital solutions that support students and faculty and the applied technologies. The Oracle Academy Talk also provided valuable insights about databases, cloud computing and artificial intelligence. However, the visit could be improved as the areas for the booths were quite small, making people difficult to move comfortably. Hence, the space could be reorganized to enable easier access during the visit. In conclusion, this engaging visit helped me to understand the implementation of digital services in an educational setting while the Oracle Academy Talk made me interested with cloud-based tools. 
+𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝗩𝗶𝘀𝗶𝘁 𝟭: 𝗨𝗧𝗠𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗢𝗽𝗲𝗻 𝗗𝗮𝘆
+
+On 29 October 2025, I participated in the UTMDigital Open Day with my group, where we explored UTMDigital’s role in supporting the university’s digital infrastructure and services. During the visit, we learned about the organizational structure of UTMDigital, the range of services they provide, and how they support students and staff through various digital platforms. We also had the opportunity to interview a UTMDigital staff member, which gave us valuable insights into their daily operations and responsibilities.
+
+In addition, we attended a talk on Oracle Academy, which highlighted how industry-standard tools, learning resources, and certifications help students develop practical skills in databases, programming, and cloud technologies. Although the booth area was relatively small and crowded, the overall experience was meaningful and enhanced my understanding of how academic learning aligns with industry expectations.
+
+One improvement for future events would be to provide larger booth spaces, as the limited walking area caused congestion during peak hours.
+
+Overall, this visit increased my interest in enterprise IT systems and demonstrated how academic knowledge can be directly applied to real-world environments.
