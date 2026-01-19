@@ -104,31 +104,39 @@
       color: #666;
     }
 
+    /* ================= REFLECTIONS TABLE (matches assignments) ================= */
     .reflection-table {
       width: 100%;
-      border-collapse: collapse;
+      border-collapse: separate; /* separate borders for card-like look */
+      border-spacing: 0 12px;    /* space between rows like blocks */
       margin-top: 15px;
       font-size: 14px;
     }
-
-    .reflection-table th, .reflection-table td {
-          padding: 12px;
-          border: 1px solid #ddd;
-          vertical-align: top;
-          text-align: left;
-        }
-
+    
     .reflection-table th {
-      background-color: #f3f4f6;
-      font-weight: 600;
-    }
-
-    .reflection-table tbody tr:nth-child(even) {
-      background-color: #f9fafb;
+      display: none; /* hide table headers for cleaner block style */
     }
     
-    .reflection-table tbody tr:hover {
-      background-color: #e0e7ff; /* subtle hover effect */
+    .reflection-table td {
+      background-color: #f9fafb;
+      padding: 16px;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+      vertical-align: middle;
+    }
+    
+    .reflection-table td a {
+      color: #2563eb;
+      font-weight: 500;
+      text-decoration: none;
+    }
+    
+    .reflection-table td a:hover {
+      text-decoration: underline;
+    }
+    
+    .reflection-table tbody tr:hover td {
+      background-color: #e0e7ff; /* hover effect like assignment cards */
     }
     </style>
   </head>
@@ -279,49 +287,56 @@
 
 </section>
 
-  <!-- ================= REFLECTIONS ================= -->
+<!-- ================= REFLECTIONS ================= -->
 <section>
   <h2>Reflections</h2>
   <table class="reflection-table">
-    <thead>
-      <tr>
-        <th>Assignment / Activity</th>
-        <th>Reflection</th>
-      </tr>
-    </thead>
     <tbody>
       <tr>
-        <td>Industry Visit 1: UTMDigital Open Day</td>
-        <td><a href="reflection/industry_visit_1.md" target="_blank">View Reflection</a></td>
+        <td>
+          <strong>Industry Visit 1: UTMDigital Open Day</strong><br>
+          <a href="reflection/industry_visit_1.md" target="_blank">View Reflection</a>
+        </td>
       </tr>
       <tr>
-        <td>Industry Talk 1: PPG</td>
-        <td><a href="reflection/industry_talk_1.md" target="_blank">View Reflection</a></td>
+        <td>
+          <strong>Industry Talk 1: PPG</strong><br>
+          <a href="reflection/industry_talk_1.md" target="_blank">View Reflection</a>
+        </td>
       </tr>
       <tr>
-        <td>Industry Talk 2: Project Management and System Development</td>
-        <td><a href="reflection/industry_talk_2.md" target="_blank">View Reflection</a></td>
+        <td>
+          <strong>Industry Talk 2: Project Management and System Development</strong><br>
+          <a href="reflection/industry_talk_2.md" target="_blank">View Reflection</a>
+        </td>
       </tr>
       <tr>
-        <td>Industry Talk 3: Clarity Techworks Sdn Bhd</td>
-        <td><a href="reflection/industry_talk_3.md" target="_blank">View Reflection</a></td>
+        <td>
+          <strong>Industry Talk 3: Clarity Techworks Sdn Bhd</strong><br>
+          <a href="reflection/industry_talk_3.md" target="_blank">View Reflection</a>
+        </td>
       </tr>
       <tr>
-        <td>Industry Talk 4: Air Asia</td>
-        <td><a href="reflection/industry_talk_4.md" target="_blank">View Reflection</a></td>
+        <td>
+          <strong>Industry Talk 4: Air Asia</strong><br>
+          <a href="reflection/industry_talk_4.md" target="_blank">View Reflection</a>
+        </td>
       </tr>
       <tr>
-        <td>PC Assemble (Laboratory)</td>
-        <td><a href="reflection/pc_assemble(lab).md" target="_blank">View Reflection</a></td>
+        <td>
+          <strong>PC Assemble (Laboratory)</strong><br>
+          <a href="reflection/pc_assemble(lab).md" target="_blank">View Reflection</a>
+        </td>
       </tr>
       <tr>
-        <td>Design Thinking (Low Fidelity Prototype)</td>
-        <td><a href="reflection/design_thinking(low_fidelity_prototype)" target="_blank">View Reflection</a></td>
+        <td>
+          <strong>Design Thinking (Low Fidelity Prototype)</strong><br>
+          <a href="reflection/design_thinking(low_fidelity_prototype).md" target="_blank">View Reflection</a>
+        </td>
       </tr>
     </tbody>
   </table>
 </section>
-
 
 </main>
 
