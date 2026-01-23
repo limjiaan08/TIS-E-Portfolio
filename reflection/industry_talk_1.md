@@ -1,4 +1,4 @@
-𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝗧𝗮𝗹𝗸 𝟭: 𝗣𝗣𝗚
+**Industry Talk 1: PPG**
 
 On 20 November 2025, I attended an online Industry Talk by PPG as part of the SECP1513 – Technology Information and System course. The session introduced how paints and coatings are applied across various industries and highlighted that coatings are not only for appearance, but also for protection, safety, durability, and sustainability.
 
