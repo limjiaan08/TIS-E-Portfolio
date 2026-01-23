@@ -1,4 +1,4 @@
-𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝗩𝗶𝘀𝗶𝘁 𝟭: 𝗨𝗧𝗠𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗢𝗽𝗲𝗻 𝗗𝗮𝘆
+**Industry Visit 1: UTMDigital Open Day**
 
 On 29 October 2025, I participated in the UTMDigital Open Day with my group, where we explored UTMDigital’s role in supporting the university’s digital infrastructure and services. During the visit, we learned about the organizational structure of UTMDigital, the range of services they provide, and how they support students and staff through various digital platforms. We also had the opportunity to interview a UTMDigital staff member, which gave us valuable insights into their daily operations and responsibilities.
 
