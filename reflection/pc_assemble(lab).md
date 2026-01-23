@@ -1,4 +1,4 @@
-𝗣𝗖 𝗔𝘀𝘀𝗲𝗺𝗯𝗹𝗲 𝗟𝗮𝗯 (𝗚𝗿𝗼𝘂𝗽 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆)
+**PC Assemble Lab**
 
 On 12 November 2025, I participated in a PC Assemble Lab, where we worked in groups to dismantle, reconstruct, and test a computer system. Through this hands-on session, I gained practical experience in assembling and testing computer hardware while collaborating effectively with my teammates.
 
