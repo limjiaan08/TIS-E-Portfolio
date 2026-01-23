@@ -1,4 +1,4 @@
-𝗧𝗜𝗦 𝗣𝗥𝗢𝗝𝗘𝗖𝗧: 𝗗𝗜𝗚𝗜𝗧𝗔𝗟 𝗛𝗘𝗔𝗟𝗧𝗛𝗖𝗔𝗥𝗘 𝗔𝗡𝗗 𝗔𝗣𝗣𝗢𝗜𝗡𝗧𝗠𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠 𝗙𝗢𝗥 𝗨𝗧𝗠 𝗦𝗧𝗨𝗗𝗘𝗡𝗧𝗦
+**TIS PROJECT: DIGITAL HEALTHCARE AND APPOINTMENT SYSTEM FOR UTM STUDENTS**
 
 Through this project, I gained practical experience in applying the Design Thinking methodology to solve real-world problems. I learned how to understand user needs through surveys, define clear problem statements, and transform ideas into a digital prototype using Figma. This project also strengthened my teamwork, communication, and problem-solving skills, as close collaboration was required throughout each phase.
 
